@@ -1,0 +1,1 @@
+https://github.com/Britto20/git_repo.git, /home/gitrepo/
